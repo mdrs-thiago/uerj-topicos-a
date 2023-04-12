@@ -1,4 +1,4 @@
-# uerj-topicos-a
+# UERJ - Tópicos A
 
 Repositório para as aulas práticas da disciplina Tópicos Especiais em Sistemas e Computações A - UERJ
 
